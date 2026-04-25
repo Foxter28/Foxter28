@@ -49,6 +49,6 @@
 
 <hr style="border: none; height: 1px; background-color: #333; width: 70%; margin: 25px auto;">
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucyy28&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en"/>
 </p>
