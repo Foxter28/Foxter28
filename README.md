@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoP9sLM_8WRx3QIDBofQwJ3MeXCiNqoAzHL3cNdSMXwuf1kATgw5HvrLb&s=10">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucyy28&label=Profile%20views&color=000000&style=flat" alt="Foxter28" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Foxter28&label=Profile%20views&color=000000&style=flat" alt="Foxter28" /> </p>
 <hr style="border: none; height: 1px; background-color: #333; width: 70%; margin: 25px auto;">
 <h3 align=left><a
 <h3>> About Me </h3>
