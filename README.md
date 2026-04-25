@@ -5,6 +5,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucyy28&label=Profile%20views&color=000000&style=flat" alt="lucyy28" /> </p>
+<hr style="border: none; height: 1px; background-color: #333; width: 70%; margin: 25px auto;">
 <h3 align=left><a
 <h3>> About Me </h3>
 </h3>
@@ -46,4 +47,8 @@
   </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucyy28&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="lucyy28" /></p>
+<hr style="border: none; height: 1px; background-color: #333; width: 70%; margin: 25px auto;">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucyy28&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en"/>
+</p>
