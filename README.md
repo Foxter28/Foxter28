@@ -1,4 +1,4 @@
-# <p align = "center"><img src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner Gif"/></p>
+# <p align = "center"><img src="[https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner Gif](https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif)"/></p>
 <h1 align="center">Hi 👋, I'm M Firdan Ardiansyah</h1>
 <h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoP9sLM_8WRx3QIDBofQwJ3MeXCiNqoAzHL3cNdSMXwuf1kATgw5HvrLb&s=10">
