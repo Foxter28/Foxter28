@@ -50,5 +50,5 @@
 <hr style="border: none; height: 1px; background-color: #333; width: 70%; margin: 25px auto;">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucyy28/lucyy28/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Foxter28/Foxter28/output/snake.svg"/>
 </p>
